@@ -7,3 +7,6 @@ To use, just run the node index file followed by city/address
 
 ```
 node index.js malmö
+
+## Note
+Please enter your own api keys as i have removed the my api keys from the file in forecast.js and geo.js
